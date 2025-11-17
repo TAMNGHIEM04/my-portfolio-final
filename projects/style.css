@@ -49,7 +49,7 @@ header{
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #fff;
+  background-color: #ffe6f0;
   box-shadow: 0 1px 4px rgba(146,161,176,.3);
 }
 section{
@@ -188,11 +188,11 @@ header .navbar ul li a:hover{
   font-weight: 500;
 }
 .work .button-group .btn:hover{
-  background-color: #fff;
+  background-color: #ffe6f0;
   color: #000;
 }
 .work .button-group .btn.is-checked{
-  background-color: #fff;
+  background-color: #ffe6f0;
   color: #000;
 }
 .work .box-container{
@@ -208,7 +208,7 @@ header .navbar ul li a:hover{
   position: relative;
   overflow:hidden;
   height:30rem;
-  background: #fff;
+  background: #ffe6f0;
   border: none;
 }
 .work .box-container .box img{
@@ -221,7 +221,7 @@ header .navbar ul li a:hover{
   width:100%;
   position: absolute;
   top:85%; left:0;
-  background:rgba(255, 255, 255, 0.9);
+  background:rgba(255, 230, 240, 0.9);
   display: flex;
   flex-direction: column;
 }

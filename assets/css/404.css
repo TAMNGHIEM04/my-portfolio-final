@@ -47,7 +47,7 @@ header{
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #fff;
+  background-color: #ffe6f0;
   box-shadow: 0 1px 4px rgba(146,161,176,.3);
 }
 section{
@@ -147,7 +147,7 @@ header .navbar ul li a:hover{
 /* 404 section start */
 .page_404{ 
     padding:40px 0; 
-    background:rgb(255, 255, 255);
+    background: rgb(255, 230, 240);
     margin-top: 6rem;
     min-height: 60vh;
 }

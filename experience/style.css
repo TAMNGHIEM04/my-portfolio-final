@@ -49,7 +49,7 @@ header{
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #fff;
+  background-color: #ffe6f0;
   box-shadow: 0 1px 4px rgba(146,161,176,.3);
 }
 section{
@@ -193,7 +193,7 @@ header .navbar ul li a:hover{
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(255, 230, 240);
   border: 4px solid #f68c09;
   top: 15px;
   border-radius: 50%;
